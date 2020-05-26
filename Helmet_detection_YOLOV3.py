@@ -147,7 +147,7 @@ cv.namedWindow(winName, cv.WINDOW_NORMAL)
 
 
 
-for fn in glob('images/*.jpg'):
+for fn in glob('images/*.jpeg'):
     frame = cv.imread(fn)
     frame_count =0
 
