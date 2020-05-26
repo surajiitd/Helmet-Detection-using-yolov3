@@ -35,7 +35,7 @@ python3 Helmet_detection_YOLOV3.py
 [model](https://drive.google.com/open?id=16yH9M_ovw0cJG4gVKuXTkz_cwYxJtwAk)  
 
 If everything went well. you will get results like this  
-![img1](https://github.com/Paatni22/Helmet-Detection-using-yolov3/tree/master/test_out/img3.jpeg)  
-![img2](https://github.com/Paatni22/Helmet-Detection-using-yolov3/tree/master/test_out/img4.jpeg)  
-![img3](https://github.com/Paatni22/Helmet-Detection-using-yolov3/tree/master/test_out/img.jpeg)  
+![img1](https://github.com/Paatni22/Helmet-Detection-using-yolov3/blob/master/test_out/img6.jpeg)  
+![img2](https://github.com/Paatni22/Helmet-Detection-using-yolov3/blob/master/test_out/img4.jpeg)  
+![img3](https://github.com/Paatni22/Helmet-Detection-using-yolov3/blob/master/test_out/img.jpeg)  
 
